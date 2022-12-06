@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "tntgroup.uview-helper",
+    "xiashui.uview-snippet",
+    "ModyQyW.vscode-uni-app-schemas",
+    "vunguyentuan.vscode-css-variables"
+  ]
+}
